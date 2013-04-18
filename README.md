@@ -46,5 +46,5 @@ You have to add them to the `DocParser` class in order for them to be used.
 Theme
 -----
 
-The docs for this is on the main (YUIDoc page)[http://yui.github.io/yuidoc/themes/index.html#overriding-a-partiallayout].
+The docs for this is on the main (http://yui.github.io/yuidoc/themes/index.html#overriding-a-partiallayout)[YUIDoc page].
 
