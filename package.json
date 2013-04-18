@@ -1,0 +1,9 @@
+{
+    "name": "yuidoc-extended",
+    "version": "0.0.0",
+    "description": "How to extend and customize YUIDoc",
+    "bin" : { "myyuidoc" : "./bin/cli.js" },
+    "dependencies": {
+        "yuidocjs": "~0.3.44"
+    }
+}
